@@ -1,0 +1,3 @@
+
+0を引数に入れられると激怒して例外method関数を持つ
+ExceptionThrowerクラスを作成せよ
