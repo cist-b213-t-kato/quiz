@@ -1,4 +1,4 @@
-package quiz03;
+package quiz103;
 
 public class Singleton {
 

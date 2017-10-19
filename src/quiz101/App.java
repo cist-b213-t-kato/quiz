@@ -1,4 +1,4 @@
-package quiz01;
+package quiz101;
 
 public class App {
 

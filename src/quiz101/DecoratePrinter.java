@@ -1,9 +1,9 @@
-package quiz01;
+package quiz101;
 
 
 public abstract class DecoratePrinter {
 
-	protected abstract void print();
+	public abstract void print();
 
 	public final void decoratePrint() {
 		System.out.println("*+*+*+*+*+*+*+*+*+*+*+*+");

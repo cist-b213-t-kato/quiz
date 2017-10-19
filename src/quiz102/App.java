@@ -1,4 +1,4 @@
-package quiz02;
+package quiz102;
 
 public class App {
 	public static void main(String[] args) {
