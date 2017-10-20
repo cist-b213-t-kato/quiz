@@ -1,4 +1,4 @@
-package quiz001;
+package quiz104;
 
 public class Cup {
 

@@ -1,4 +1,4 @@
-package quiz001.answer;
+package quiz104;
 
 public class App {
 
@@ -6,11 +6,13 @@ public class App {
 		Cup cup = new Cup();
 
 		// コップに容量以上の水を入れる
-		cup.setWater(500);
+		cup.water = 1000;
 		cup.view();
 
 		// コップの水を飲み干す
-		cup.setWater(-200);
+		cup.water -= 400;
+		cup.water -= 400;
+		cup.water -= 400;
 		cup.view();
 
 	}
