@@ -9,7 +9,7 @@ public class App {
 
 		if ( flag ) {
 			System.out.println("りんご");
-		} else if ( 0 < 3 ) {
+		} else if ( i < 3 ) {
 			System.out.println("ばなな");
 		} else {
 			System.out.println("ふなっしー");
